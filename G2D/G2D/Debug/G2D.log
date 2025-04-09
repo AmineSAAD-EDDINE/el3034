@@ -1,0 +1,8 @@
+﻿  Eleve.cpp
+U:\Documents\EL_3034\G2D\Eleve.cpp(79,45): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(82,30): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(92,20): warning C4018: '<' : incompatibilité signed/unsigned
+U:\Documents\EL_3034\G2D\Eleve.cpp(103,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(142,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(142,22): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  G2D.vcxproj -> U:\Documents\EL_3034\G2D\Debug\G2D.exe

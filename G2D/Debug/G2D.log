@@ -1,0 +1,18 @@
+﻿  Eleve.cpp
+U:\Documents\EL_3034\G2D\Eleve.cpp(52,19): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(53,19): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(163,45): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(165,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(168,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(173,30): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(176,17): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(197,20): warning C4018: '<' : incompatibilité signed/unsigned
+U:\Documents\EL_3034\G2D\Eleve.cpp(209,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(233,64): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(255,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(265,21): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(283,27): warning C4018: '<' : incompatibilité signed/unsigned
+U:\Documents\EL_3034\G2D\Eleve.cpp(284,72): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(360,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+U:\Documents\EL_3034\G2D\Eleve.cpp(360,22): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  G2D.vcxproj -> U:\Documents\EL_3034\G2D\Debug\G2D.exe
